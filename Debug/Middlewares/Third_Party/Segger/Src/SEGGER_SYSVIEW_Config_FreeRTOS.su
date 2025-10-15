@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/Segger/Src/SEGGER_SYSVIEW_Config_FreeRTOS.c:81:13:_EnableDWT	4	static
+../Middlewares/Third_Party/Segger/Src/SEGGER_SYSVIEW_Config_FreeRTOS.c:88:5:SEGGER_SYSVIEW_X_GetTimestamp	4	static
+../Middlewares/Third_Party/Segger/Src/SEGGER_SYSVIEW_Config_FreeRTOS.c:92:6:SEGGER_SYSVIEW_X_Start	8	static
+../Middlewares/Third_Party/Segger/Src/SEGGER_SYSVIEW_Config_FreeRTOS.c:103:13:_cbSendSystemDesc	8	static
+../Middlewares/Third_Party/Segger/Src/SEGGER_SYSVIEW_Config_FreeRTOS.c:114:6:SEGGER_SYSVIEW_Conf	8	static
