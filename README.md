@@ -138,6 +138,10 @@ O SystemView funciona **sem patch**. Se quiser aplicar o patch para eventos extr
 
 ---
 
+## Imagem System SystemView
+
+![Timeline do SystemView](Docs/Imagens/systemview.png)
+
 ## Licenças
 
 - FreeRTOS Kernel V10.x — MIT (Amazon).
